@@ -1,0 +1,68 @@
+.baslik{
+    font-size: 85px;
+    letter-spacing: 5px;
+    font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+    font-weight: 700;
+}
+.icerik{
+    opacity: 0.9;
+    transition: .3s;
+}
+.icerik:hover {
+    opacity: 1;
+}
+.icerik a:hover {
+    text-decoration: none;
+}
+.footer {
+    background: #120D0E;
+}
+.footer a {
+    color: rgb(255, 255, 255);
+}
+.footer a:hover {
+    color: gray;
+}
+.alt {
+    background: #090707;
+}
+.alt a {
+    color: white;
+}
+.alt a:hover {
+    color: white;
+}
+.urun {
+    opacity: 0.9;
+    transition: .3s;
+}
+.urun:hover {
+    opacity: 1;
+}
+.urun a:hover {
+    text-decoration: none;
+}
+.page-item a {
+    color: gray;
+}
+.page-item a:hover {
+    color: black;
+}
+.page-item .active {
+    background: rgb(147, 147, 147);
+    color: white;
+}
+.card-body kbd{
+    background-color: red;
+    font-size: 15px;
+}
+.bresim {
+    cursor: pointer;
+}
+.detay img {
+    width: 63%;
+    opacity: 0.9;
+}
+.detay img:hover {
+    opacity: 1;
+}
